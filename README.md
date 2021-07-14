@@ -18,3 +18,7 @@ Necessário rodar os arquivos em um servidor simples, como o [Servez](https://gr
 > Dois cliques em cada espaço no tabuleiro são necessários para ativar a peça 'X' ou 'O' 
 
 Após a vitória de algum jogador, o jogo é automaticamente reiniciado.
+
+### Você também pode jogar em: 
+
+https://jvbelmonte.github.io/Tic-Tac-Toe-Salame-babylonjs/
